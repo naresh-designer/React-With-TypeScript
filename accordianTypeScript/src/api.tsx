@@ -1,0 +1,1 @@
+export const URL_API: string = `https://fakestoreapi.com/products`

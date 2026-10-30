@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme{
+  --width:1440px;
+  --letter-track:.2rem;
+}
